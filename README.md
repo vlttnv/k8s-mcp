@@ -1,7 +1,7 @@
 # k8s-mcp
 ## Kubernetes Monitor
 
-A Python-based Model Context Protocol (MCP) tool for Kubernetes clusters that exposes a comprehensive API to retrieve cluster information and diagnose issues.
+A Python-based, read-only [Model Context Protocol (MCP)](https://modelcontextprotocol.io/introduction) server for Kubernetes clusters that exposes a comprehensive API to retrieve cluster information and diagnose issues.
 
 ## Installation
 
