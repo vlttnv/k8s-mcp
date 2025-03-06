@@ -4,7 +4,7 @@
 
 A Python-based, read-only [Model Context Protocol (MCP)](https://modelcontextprotocol.io/introduction) server for Kubernetes clusters that exposes a comprehensive API to retrieve cluster information and diagnose issues.
 
-[Example chat with using Claude](https://claude.ai/share/90ae39d3-a0c1-4065-ab79-45950b6b4806)
+[Example chat using Claude](https://claude.ai/share/90ae39d3-a0c1-4065-ab79-45950b6b4806)
 
 ## Installation
 
