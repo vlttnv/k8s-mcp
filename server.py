@@ -42,7 +42,7 @@ custom_objects = client.CustomObjectsApi()
 
 
 @mcp.tool()
-async def get_namespaces():
+def get_namespaces():
     """
     List all namespaces in the Kubernetes cluster.
 

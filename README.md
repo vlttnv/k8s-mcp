@@ -1,5 +1,6 @@
+<img src="./assets/logo.svg" alt="Allseer Logo" width="400" height="400" />
+
 # k8s-mcp
-## Kubernetes Monitor
 [![smithery badge](https://smithery.ai/badge/@vlttnv/k8s-mcp)](https://smithery.ai/server/@vlttnv/k8s-mcp)
 
 A Python-based, read-only [Model Context Protocol (MCP)](https://modelcontextprotocol.io/introduction) server for Kubernetes clusters that exposes a comprehensive API to retrieve cluster information and diagnose issues.
@@ -137,9 +138,3 @@ Here are some useful example prompts you can ask Claude about your Kubernetes cl
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
